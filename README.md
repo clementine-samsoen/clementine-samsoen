@@ -19,7 +19,7 @@ I use this space to publish the small automations and frameworks I build for rea
 
 ## Current project
 
-**GEO Audit Framework** - A lightweight Python tool that queries Claude, Gemini, and Perplexity
+**GEO Audit Framework** A lightweight Python tool that queries Claude, Gemini, and Perplexity
 to audit how any brand appears in AI-generated responses. Built for sales teams
 who need to understand their prospects' AI visibility before discovery calls.
 
