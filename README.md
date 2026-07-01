@@ -15,7 +15,7 @@ I use this space to publish the small automations and frameworks I build for rea
 
 ## Tech I work with
 
-`Claude API` | `Python` | `Zapier` | `Apollo.io` | `Clay` | `Lemlist` | `Salesforce` | `Gemini API`
+`Claude API` | `Python` | `n8n` | `Apollo.io` | `Clay` | `Lemlist` | `Salesforce` | `Gemini API`
 
 ## Current project
 
@@ -27,4 +27,4 @@ who need to understand their prospects' AI visibility before discovery calls.
 
 - [LinkedIn](https://linkedin.com/in/clementine-samsoen)
 - clementine@smartcultural.com
-- Languages: French (native), English (C2), Spanish (C1)
+- Languages: French (native), English (C2), Spanish (C2)
